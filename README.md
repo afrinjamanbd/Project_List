@@ -2,6 +2,6 @@
 Here is the list of all of my GitHub projects...
 
 ## ML projects
- #i. Survival Prediction
+ # i. Survival Prediction
   https://github.com/afrinjamanbd/Survival_Prediction
 
