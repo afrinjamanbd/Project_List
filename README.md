@@ -1,6 +1,7 @@
-### Project_List
+# Project_List
 Here is the list of all of my GitHub projects...
 
-# ML projects
-  i. https://github.com/afrinjamanbd/Survival_Prediction
+## ML projects
+ #i. Survival Prediction
+  https://github.com/afrinjamanbd/Survival_Prediction
 
