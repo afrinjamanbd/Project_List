@@ -33,7 +33,7 @@ Here is the list of all of my GitHub projects...
   Star Cluster
   https://github.com/afrinjamanbd/Cern_Particle_Prediction
    
-  Cern Particla Prediction
+  Cern Particle Prediction
   https://github.com/afrinjamanbd/Cern_Particle_Prediction
  
   Bank Churn
@@ -47,5 +47,5 @@ Here is the list of all of my GitHub projects...
   https://gist.github.com/afrinjamanbd/45942f4d7edb6fdf03fe1d96385566e6
   https://gist.github.com/afrinjamanbd/a516ffaf3f887fb4772cc11949c5a157
   https://gist.github.com/afrinjamanbd/3043017db70e420a08ad5ab19f82cdce
-   
+  https://gist.github.com/afrinjamanbd/2f92bed4952b1c44708bfc856f8fdfca
 
