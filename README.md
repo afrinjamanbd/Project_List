@@ -43,7 +43,7 @@ Here is the list of all of my GitHub projects...
   https://github.com/afrinjamanbd/pyjson
   
   
-##Golang Projects
+## Golang projects
 
   Golang CLI
   https://github.com/afrinjamanbd/goCLIapp
