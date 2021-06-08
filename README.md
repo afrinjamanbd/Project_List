@@ -17,6 +17,18 @@ Here is the list of all of my GitHub projects...
   https://github.com/afrinjamanbd/pyjson
   
   
+## Django projects
+
+   Django_s3_storage
+   https://github.com/afrinjamanbd/Django_s3_storage
+   
+   DjangoNews
+   https://github.com/afrinjamanbd/DjangoNews
+   
+   Django_message_board
+   https://github.com/afrinjamanbd/Django_message_board
+  
+  
 ## ML projects
 
   Covid Mental Health
