@@ -17,6 +17,7 @@ Here is the list of all of my GitHub projects...
   https://github.com/afrinjamanbd/pyjson
   
   
+  
 ## Django projects
 
    Django_s3_storage
@@ -27,6 +28,7 @@ Here is the list of all of my GitHub projects...
    
    Django_message_board
    https://github.com/afrinjamanbd/Django_message_board
+   
    
    
 ## PHP Laravel projects  
@@ -44,10 +46,12 @@ Here is the list of all of my GitHub projects...
    https://github.com/afrinjamanbd/MVC_PHP
   
   
+  
 ## Golang projects
 
   Golang CLI
   https://github.com/afrinjamanbd/goCLIapp
+
 
 
 ## Gists
@@ -61,6 +65,7 @@ Here is the list of all of my GitHub projects...
   https://gist.github.com/afrinjamanbd/45942f4d7edb6fdf03fe1d96385566e6
   https://gist.github.com/afrinjamanbd/a516ffaf3f887fb4772cc11949c5a157
   https://gist.github.com/afrinjamanbd/3043017db70e420a08ad5ab19f82cdce
+  
   
   
   ## ML projects
