@@ -27,24 +27,21 @@ Here is the list of all of my GitHub projects...
    
    Django_message_board
    https://github.com/afrinjamanbd/Django_message_board
-  
-  
-## ML projects
-
-  Covid Mental Health
-  https://github.com/afrinjamanbd/Covid_Mental_Health
- 
-  Survival Prediction
-  https://github.com/afrinjamanbd/Survival_Prediction
-    
-  Star Cluster
-  https://github.com/afrinjamanbd/Cern_Particle_Prediction
    
-  Cern Particle Prediction
-  https://github.com/afrinjamanbd/Cern_Particle_Prediction
- 
-  Bank Churn
-  https://github.com/afrinjamanbd/Cern_Particle_Prediction
+   
+## PHP Laravel projects  
+   
+   DemoSQLInjection
+   https://github.com/afrinjamanbd/DemoSQLInjection
+   
+   Laravel_Bootstrap
+   https://github.com/afrinjamanbd/Laravel_Bootstrap
+   
+   First_Laravel_Demo
+   https://github.com/afrinjamanbd/First_Laravel_Demo
+   
+   MVC_PHP
+   https://github.com/afrinjamanbd/MVC_PHP
   
   
 ## Golang projects
@@ -64,3 +61,21 @@ Here is the list of all of my GitHub projects...
   https://gist.github.com/afrinjamanbd/45942f4d7edb6fdf03fe1d96385566e6
   https://gist.github.com/afrinjamanbd/a516ffaf3f887fb4772cc11949c5a157
   https://gist.github.com/afrinjamanbd/3043017db70e420a08ad5ab19f82cdce
+  
+  
+  ## ML projects
+
+  Covid Mental Health
+  https://github.com/afrinjamanbd/Covid_Mental_Health
+ 
+  Survival Prediction
+  https://github.com/afrinjamanbd/Survival_Prediction
+    
+  Star Cluster
+  https://github.com/afrinjamanbd/Cern_Particle_Prediction
+   
+  Cern Particle Prediction
+  https://github.com/afrinjamanbd/Cern_Particle_Prediction
+ 
+  Bank Churn
+  https://github.com/afrinjamanbd/Cern_Particle_Prediction
