@@ -65,7 +65,7 @@ Here is the list of all of my GitHub projects...
   https://gist.github.com/afrinjamanbd/45942f4d7edb6fdf03fe1d96385566e6
   https://gist.github.com/afrinjamanbd/a516ffaf3f887fb4772cc11949c5a157
   https://gist.github.com/afrinjamanbd/3043017db70e420a08ad5ab19f82cdce
-  
+  https://gist.github.com/afrinjamanbd/f81f3d0b15b7cecd3bf8db94a8375922
   
   
   ## ML projects
