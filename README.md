@@ -66,6 +66,10 @@ Here is the list of all of my GitHub projects...
   Python Cheat Sheet 
   https://gist.github.com/afrinjamanbd/2f92bed4952b1c44708bfc856f8fdfca
   
+  Python Multiple Request Sender
+  https://gist.github.com/afrinjamanbd/fc5cb5ad4a01b6c2855deff160a20c8a
+ 
+  
   Golang Cheat Sheet 
   https://gist.github.com/afrinjamanbd/bc15935620afe2969f42dc6209f82652
 
