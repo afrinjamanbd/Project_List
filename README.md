@@ -61,6 +61,13 @@ Here is the list of all of my GitHub projects...
 
 
 
+## Medium Blog
+
+   unexpected token ‘ in JSON at position
+   https://medium.com/@afrinjamanbd/unexpected-token-in-json-at-position-824d2bb767bf
+
+
+
 ## Gists
   
   Python Cheat Sheet 
