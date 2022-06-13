@@ -36,6 +36,9 @@ Here is the list of all of my GitHub projects...
    Uptime Monitoring
    https://github.com/afrinjamanbd/Uptime_Monitoring
    
+   Nodejs Rest API with EJS
+   https://github.com/afrinjamanbd/NODEJS_RESTAPI
+   
    
    
 ## PHP Laravel projects  
