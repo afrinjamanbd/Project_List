@@ -81,6 +81,9 @@ Here is the list of all of my GitHub projects...
   
   Method Chaining Example in Python
   https://gist.github.com/afrinjamanbd/46c2deb49a9a44228eacb74a838297dc
+  
+  Calculator with Method chaining in Python
+  https://gist.github.com/afrinjamanbd/05b362584d9c1ce5ce3ba2e698f7bf07
    
   Golang Cheat Sheet 
   https://gist.github.com/afrinjamanbd/bc15935620afe2969f42dc6209f82652
