@@ -68,6 +68,9 @@ Here is the list of all of my GitHub projects...
 
    unexpected token ‘ in JSON at position
    https://medium.com/@afrinjamanbd/unexpected-token-in-json-at-position-824d2bb767bf
+   
+   Implement Method Chaining in Python
+   https://medium.com/@afrinjamanbd/implement-method-chaining-in-python-b34af93cbbd9
 
 
 
